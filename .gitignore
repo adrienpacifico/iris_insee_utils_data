@@ -1,0 +1,5 @@
+CONTOURS-IRIS/
+.venv/
+.ruff_cache/
+.history
+.DS_Store

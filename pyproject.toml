@@ -1,0 +1,15 @@
+[project]
+name = "iris-insee-utils-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas[all]>=2.2.3",
+    "geopandas>=1.0.1",
+    "ruff>=0.7.1",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
