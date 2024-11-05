@@ -1,0 +1,11 @@
+Data Source Information
+========================
+
+Dataset: Couples - Familles - Ménages en 2020
+Source: INSEE (Institut National de la Statistique et des Études Économiques)
+URL: https://www.insee.fr/fr/statistiques/7704086
+Download URL: https://www.insee.fr/fr/statistiques/fichier/7704086/base-ic-couples-familles-menages-2020_csv.zip
+Downloaded on: 2024/11/05
+
+Description:
+This dataset contains information about French population at the iris level in 2020.
